@@ -1,2 +1,1 @@
-#!/bin/bash 
-ln -s /bin/ls /tmp/sym/_ls_
+#!/bin/bash \nln -s /bin/ls ./_ls_
