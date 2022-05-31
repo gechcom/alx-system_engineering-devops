@@ -1,2 +1,2 @@
 #!/bin/bash
-$((TRUEKNOLEDGE+=128))
+echo $(($TRUEKNOLEDGE+128))
